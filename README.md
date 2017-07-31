@@ -15,7 +15,7 @@ Turbot is Custom Edition of Turtlebot3 For SLAM 、 DL and autodrive
 
  - Dependent on Turtlebot3 / rplidar_ros / freenect and so on
  - SLAM: gmapping, hector_slam, cartographer SLAM, ORB-SLAM2, RGBD-SLAM-V2, AMCL
- -  - DeepLearning: Caffe, TensorFlow, Torch, Theano, Mxnet
+ - DeepLearning: Caffe, TensorFlow, Torch, Theano, Mxnet
  - autodrive
 
 # Doc:

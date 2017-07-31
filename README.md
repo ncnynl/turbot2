@@ -1,35 +1,34 @@
 # turbot2
 
-Turbot2
-
 Turbot is Custom Edition of Turtlebot3 For SLAM 、 DL and autodrive  
 
-Hardware:
+# Hardware:
 
-Turtlebot3-waffle  
-TX1/TX2
-Power cable and Adapter for TX1/TX2
-RPlidar A1 / RPlidar A2 / EAI F4
-Kinect v1 / realsense r200
-5200mah lithium battery
+ - Turtlebot3-waffle  
+ - TX1/TX2
+ - Power cable and Adapter for TX1/TX2
+ - RPlidar A1 / RPlidar A2 / EAI F4
+ - Kinect v1 / realsense r200
+ - 5200mah lithium battery
 
-Software:
+# Software:
 
-Dependent on Turtlebot3 / rplidar_ros / freenect and so on
-SLAM: gmapping, hector_slam, cartographer SLAM, ORB-SLAM2, RGBD-SLAM-V2, AMCL
-DeepLearning: Caffe, TensorFlow, Torch, Theano, Mxnet
-autodrive
+ - Dependent on Turtlebot3 / rplidar_ros / freenect and so on
+ - SLAM: gmapping, hector_slam, cartographer SLAM, ORB-SLAM2, RGBD-SLAM-V2, AMCL
+ -  - DeepLearning: Caffe, TensorFlow, Torch, Theano, Mxnet
+ - autodrive
 
-Doc:
+# Doc:
 
-http://www.ncnynl.com
-For Turbot2：http://www.ncnynl.com/category/turbot2/  [comming soon]
-For SLAM： http://www.ncnynl.com/category/turbot2-SLAM/ [comming soon]
-For DL： http://www.ncnynl.com/category/turbot2-DL/ [comming soon]
+ - http://www.ncnynl.com
+ - For Turbot2：http://www.ncnynl.com/category/turbot2/  [comming soon]
+ - For SLAM： http://www.ncnynl.com/category/turbot2-SLAM/ [comming soon]
+ - For DL： http://www.ncnynl.com/category/turbot2-DL/ [comming soon]
 
-Picture:
-[comming soon]
+# Picture:
 
-Buy:
+ - [comming soon]
 
-http://ncnynl.taobao.com
+# Buy:
+
+ - http://ncnynl.taobao.com
